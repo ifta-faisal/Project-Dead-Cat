@@ -23,8 +23,7 @@ This guide is organized to help you easily navigate each step of building, confi
 ## 1. Project Overview
 
 - **Project Title**: Project Dead Cat: DIY FPV Drone with Stability & Style
-- **Introduction**: (Refer to the introduction above)
-
+- **Introduction**: This Dead Cat model drone is built for smooth, stable flights with an efficient, lightweight design, providing extended flight times and a clear camera view for FPV and aerial videography.
 ## 2. Hardware Requirements
 
 - **Components List**: 
