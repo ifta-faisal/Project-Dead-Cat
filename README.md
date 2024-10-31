@@ -49,9 +49,9 @@ This guide is organized to help you easily navigate each step of building, confi
 - I Nav
 - Beta Flight
 - Mission planner
--[Visit Site](https://betaflight.com/)
--[Visit Site](https://github.com/inavflight/inav/releases)
--[Visit Site](https://ardupilot.org/planner/)
+[Visit Site](https://betaflight.com/)
+[Visit Site](https://github.com/inavflight/inav/releases)
+[Visit Site](https://ardupilot.org/planner/)
 ## 4. Setup and Assembly Guide
 
 - **Step-by-Step Assembly Instructions**: Detailed steps with images, if possible.
