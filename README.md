@@ -27,15 +27,15 @@ This guide is organized to help you easily navigate each step of building, confi
 ## 2. Hardware Requirements
 
 - **Components List**: 
-   - Carbon fiber stick
+   - Carbon fiber tube
    - 3D printed joint and mount (PLA+)
    - Motor
-   - GEP RC Stack
+   - Flight Controller Stack
    - Propeller
    - Glue
    - Zip tie
 - **Specifications**:
-   - 8mm Carbon fiber rod
+   - 8mm Carbon fiber tube
    - 2812 900kV BLDC Motor
    - 6s Lion-Battery Pack
    - Gep RC V2 Stack
