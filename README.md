@@ -94,19 +94,29 @@ This guide is organized to help you easily navigate each step of building, confi
 
 ## 5. Flight Instructions
 
-- **Safety Tips**: Mention important safety precautions.
-- **First Flight Checklist**: Pre-flight checklist covering setup, calibration, and initial tests.
+- **Safety Tips**: Fly in open areas away from people and obstacles; avoid bad weather. Ensure batteries are charged and follow local regulations.
+
+- **First Flight Checklist**:
+
+**Setup:** Inspect frame, propellers, and battery.
+**Calibration:** Calibrate gyroscope and compass.
+**Tests:** Check motors, transmitter range, and failsafe.
+  
 - **Operating Guidelines**: Instructions for piloting, using different modes, and troubleshooting.
 
 ## 6. Troubleshooting
 
-- **Common issues and solutions**: (e.g., motor not spinning, connection issues).
-- **Tips**: for improving performance or diagnosing problems.
+- **Common issues and solutions**:
 
+ **Motor Not Spinning:** Check connections, ESC, and motor wiring; recalibrate if needed.
+ **Connection Issues:**  Re-bind the transmitter, check antenna positioning, and ensure no interference.
+ 
+- **Tips for Improved Performance**
+  
+**Battery Life:** Use high-quality batteries and avoid full discharge.
+**Signal Range:** Maintain a clear line of sight and avoid crowded areas with high interference.
+**Stability:*** Regularly inspect and tighten frame and propellers to reduce vibration.
+  
 ## 7. Future Enhancements
 
-- Planned updates or enhancements, encouraging contributions from the community.
-
-## 8. Acknowledgments
-
-- Credit any references, inspirations, or contributors to the project.
+- 
