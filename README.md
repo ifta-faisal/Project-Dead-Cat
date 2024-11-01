@@ -71,6 +71,7 @@ This guide is organized to help you easily navigate each step of building, confi
 - ![Step-6](/Dead_6.jpg)
 - # Install The ESC And FlightController
 - ![Step-7](/Dead_7.jpg)
+- # Install The Propeller
 - ![Step-8](/Dead_8.jpg)
 - ![Step-9](/Dead_9jpg)
 - ![Step-10](/Dead_10.jpg)
