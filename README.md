@@ -65,19 +65,23 @@ This guide is organized to help you easily navigate each step of building, confi
  ![Step-2](/Frame_Glue.jpg)
  ![Step-3](/Dead_3.jpg)
  ![Step-4](/Dead_4.jpg)
-- # Install The Motors
+- # Installing  Motors
  ![Step-5](/Dead_5.jpg)
 - # Wire management
  ![Step-6](/Dead_6.jpg)
-- # Install The ESC And FlightController
+- # Installing ESC And FlightController
  ![Step-7](/Dead_7.jpg)
  ![Step-8](/Dead_8.jpg)
-- # Installing The Propeller
+- # Installing  Propeller
  ![Step-9](/Dead_9jpg)
-- # Installing The Battery
+- # Installing Battery
  ![Step-10](/Dead_10.jpg)
  
-- **Calibration and Configuration**: Instructions on calibrating sensors, configuring ESCs, etc.
+- **Calibration and Configuration**:Calibrate the motors and fixed its orientation .You can use **ESC** Configurator.
+
+  - For more detailed
+[Visit Site](https://esc-configurator.com/)
+  
 
 ## 5. Flight Instructions
 
