@@ -84,7 +84,7 @@ This guide is organized to help you easily navigate each step of building, confi
  ![Step-10](/Dead_10.jpg)
  
 - **Calibration and Configuration**:Calibrate the motors and fixed its orientation .You can use **ESC** Configurator.
--  # Motor Rotation
+- **Motor Rotation**
 ![Motor_Rotation](/Motor_Rotation .jpg)
 
  **For more detailed**
