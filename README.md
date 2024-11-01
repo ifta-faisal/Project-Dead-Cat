@@ -41,7 +41,8 @@ This guide is organized to help you easily navigate each step of building, confi
    - Gep RC V2 Stack
    - 8” Carbon Frame
 - **Frame Measurement**: 
-- **Wiring Diagram**: Visuals or diagrams showing how components are connected.
+- **Wiring Diagram**:
+- - ![Diagram](/Dead_1.jpg)
 
 ## 3. Software Requirements
 
