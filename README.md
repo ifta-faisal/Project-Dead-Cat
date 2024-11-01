@@ -105,12 +105,12 @@ This guide is organized to help you easily navigate each step of building, confi
 
 ## 6. Troubleshooting
 
-- **Common issues and solutions**:
+ **Common issues and solutions**:
 
- **Motor Not Spinning:** Check connections, ESC, and motor wiring; recalibrate if needed.
- **Connection Issues:**  Re-bind the transmitter, check antenna positioning, and ensure no interference.
+- **Motor Not Spinning:** Check connections, ESC, and motor wiring; recalibrate if needed.
+- **Connection Issues:**  Re-bind the transmitter, check antenna positioning, and ensure no interference.
  
-- **Tips for Improved Performance**
+ **Tips for Improved Performance**
   
 - **Battery Life:** Use high-quality batteries and avoid full discharge.
 - **Signal Range:** Maintain a clear line of sight and avoid crowded areas with high interference.
@@ -118,4 +118,10 @@ This guide is organized to help you easily navigate each step of building, confi
   
 ## 7. Future Enhancements
 
-- 
+- **Improved Stability and Control:** Fine-tune the PID settings or introduce advanced stabilization algorithms to enhance flight stability, making it smoother and more precise in various conditions.
+- **Battery Optimization:** Explore lightweight, higher-capacity battery options or integrate solar-assisted charging modules to extend flight time.
+- **Advanced Obstacle Avoidance:** Integrate additional sensors (e.g., LiDAR or ultrasonic sensors) and update the software to enable enhanced collision avoidance capabilities.
+- **Autonomous Navigation:** Enable waypoint-based or GPS-guided navigation to support semi-autonomous or fully autonomous flight paths.
+- **Object Detection:** Implement  algorithms to detect objects, track movements, or even identify specific targets.
+
+
