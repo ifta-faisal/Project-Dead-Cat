@@ -43,7 +43,7 @@ This guide is organized to help you easily navigate each step of building, confi
 - **Frame Measurement**:
 - ![Step-1](/Frame_Measurement.jpg)
 - **Wiring Diagram**:
-- - ![Diagram](/Diagram.jpg)
+- ![Diagram](/Diagram.jpg)
 
 ## 3. Software Requirements
 
@@ -61,6 +61,7 @@ This guide is organized to help you easily navigate each step of building, confi
 - **Step-by-Step Assembly Instructions**:
 - ![Step-1](/Dead_1.jpg)
 - ![Step-2](/Dead_2.jpg)
+- # Glue The Marked Part
 - ![Step-2](/Frame_Glue.jpg)
 - ![Step-3](/Dead_3.jpg)
 - ![Step-4](/Dead_4.jpg)
