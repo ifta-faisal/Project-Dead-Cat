@@ -54,12 +54,12 @@ This guide is organized to help you easily navigate each step of building, confi
   [Visit Site](https://github.com/inavflight/inav/releases)
 - Beta Flight
   
- **For more detailed**
+ **For more details**
 [Visit Site](https://betaflight.com/)
 
 - Mission planner
 
-**For more detailed**
+**For more details**
 [Visit Site](https://ardupilot.org/planner/)
 
 ## 4. Setup and Assembly Guide
@@ -84,12 +84,13 @@ This guide is organized to help you easily navigate each step of building, confi
  ![Step-10](/Dead_10.jpg)
  
 - **Calibration and Configuration**:Calibrate the motors and fixed its orientation .You can use **ESC** Configurator.
-- **Motor Rotation**
-- ![Rotation](/Motor_Rotation.jpg)
-
- **For more detailed**
+  
+**For more details**
 [Visit Site](https://esc-configurator.com/)
   
+- **Motor Rotation**
+ ![Rotation](/Motor_Rotation.jpg)
+ 
 
 ## 5. Flight Instructions
 
