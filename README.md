@@ -18,7 +18,6 @@ This guide is organized to help you easily navigate each step of building, confi
 5. [Flight Instructions](#flight-instructions)
 6. [Troubleshooting](#troubleshooting)
 7. [Future Enhancements](#future-enhancements)
-8. [Acknowledgments](#acknowledgments)
 
 ## 1. Project Overview
 
@@ -113,9 +112,9 @@ This guide is organized to help you easily navigate each step of building, confi
  
 - **Tips for Improved Performance**
   
-**Battery Life:** Use high-quality batteries and avoid full discharge.
-**Signal Range:** Maintain a clear line of sight and avoid crowded areas with high interference.
-**Stability:*** Regularly inspect and tighten frame and propellers to reduce vibration.
+- **Battery Life:** Use high-quality batteries and avoid full discharge.
+- **Signal Range:** Maintain a clear line of sight and avoid crowded areas with high interference.
+- **Stability:*** Regularly inspect and tighten frame and propellers to reduce vibration.
   
 ## 7. Future Enhancements
 
