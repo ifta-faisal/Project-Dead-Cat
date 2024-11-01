@@ -64,6 +64,7 @@ This guide is organized to help you easily navigate each step of building, confi
 - # Glued The Marked Part
 - ![Step-2](/Frame_Glue.jpg)
 - ![Step-3](/Dead_3.jpg)
+- # Install The Motors
 - ![Step-4](/Dead_4.jpg)
 - ![Step-5](/Dead_5.jpg)
 - ![Step-6](/Dead_6.jpg)
