@@ -50,16 +50,16 @@ This guide is organized to help you easily navigate each step of building, confi
 - **Firmware/Flight Control Software**:
 - I Nav
 
-- For more detailed
+ **For more details**
   [Visit Site](https://github.com/inavflight/inav/releases)
 - Beta Flight
   
-- For more detailed
+ **For more detailed**
 [Visit Site](https://betaflight.com/)
 
 - Mission planner
 
-- For more detailed
+**For more detailed**
 [Visit Site](https://ardupilot.org/planner/)
 
 ## 4. Setup and Assembly Guide
@@ -85,7 +85,7 @@ This guide is organized to help you easily navigate each step of building, confi
  
 - **Calibration and Configuration**:Calibrate the motors and fixed its orientation .You can use **ESC** Configurator.
 
-  - For more detailed
+ **For more detailed**
 [Visit Site](https://esc-configurator.com/)
   
 
