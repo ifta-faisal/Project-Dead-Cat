@@ -49,13 +49,19 @@ This guide is organized to help you easily navigate each step of building, confi
 
 - **Firmware/Flight Control Software**:
 - I Nav
+
+- For more detailed
+  [Visit Site](https://github.com/inavflight/inav/releases)
 - Beta Flight
+  
+- For more detailed
+[Visit Site](https://betaflight.com/)
+
 - Mission planner
 
 - For more detailed
-[Visit Site](https://betaflight.com/)
-[Visit Site](https://github.com/inavflight/inav/releases)
 [Visit Site](https://ardupilot.org/planner/)
+
 ## 4. Setup and Assembly Guide
 
 - **Step-by-Step Assembly Instructions**:
