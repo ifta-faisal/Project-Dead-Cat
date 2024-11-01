@@ -85,7 +85,7 @@ This guide is organized to help you easily navigate each step of building, confi
  
 - **Calibration and Configuration**:Calibrate the motors and fixed its orientation .You can use **ESC** Configurator.
 - **Motor Rotation**
-![Motor_Rotation](/Motor_Rotation .jpg)
+![Rotation](/Motor_Rotation.jpg)
 
  **For more detailed**
 [Visit Site](https://esc-configurator.com/)
