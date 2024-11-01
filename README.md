@@ -69,6 +69,7 @@ This guide is organized to help you easily navigate each step of building, confi
 - ![Step-5](/Dead_5.jpg)
 - # Wire management
 - ![Step-6](/Dead_6.jpg)
+- # Install The ESC And FlightController
 - ![Step-7](/Dead_7.jpg)
 - ![Step-8](/Dead_8.jpg)
 - ![Step-9](/Dead_9jpg)
