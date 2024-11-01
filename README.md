@@ -56,7 +56,9 @@ This guide is organized to help you easily navigate each step of building, confi
 [Visit Site](https://ardupilot.org/planner/)
 ## 4. Setup and Assembly Guide
 
-- **Step-by-Step Assembly Instructions**: 
+- **Step-by-Step Assembly Instructions**:
+- ![Step-1](/home/iftafaisal/Dead_cat)
+- 
 - **Calibration and Configuration**: Instructions on calibrating sensors, configuring ESCs, etc.
 
 ## 5. Flight Instructions
