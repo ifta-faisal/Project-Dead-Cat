@@ -58,6 +58,15 @@ This guide is organized to help you easily navigate each step of building, confi
 
 - **Step-by-Step Assembly Instructions**:
 - ![Step-1](/Dead_1.jpg)
+- ![Step-2](/Dead_2.jpg)
+- ![Step-3](/Dead_3.jpg)
+- ![Step-4](/Dead_4.jpg)
+- ![Step-5](/Dead_5.jpg)
+- ![Step-6](/Dead_6.jpg)
+-![Step-7](/Dead_7.jpg)
+- ![Step-8](/Dead_8.jpg)
+- ![Step-9](/Dead_9.jpg)
+- ![Step-10](/Dead_10.jpg)
 - 
 - **Calibration and Configuration**: Instructions on calibrating sensors, configuring ESCs, etc.
 
