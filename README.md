@@ -42,7 +42,7 @@ This guide is organized to help you easily navigate each step of building, confi
    - 8” Carbon Frame
 - **Frame Measurement**: 
 - **Wiring Diagram**:
-- - ![Diagram](/Dead_1.jpg)
+- - ![Diagram](/Diagram.jpg)
 
 ## 3. Software Requirements
 
