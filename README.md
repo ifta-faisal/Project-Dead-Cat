@@ -40,7 +40,8 @@ This guide is organized to help you easily navigate each step of building, confi
    - 6s Lion-Battery Pack
    - Gep RC V2 Stack
    - 8” Carbon Frame
-- **Frame Measurement**: 
+- **Frame Measurement**:
+- ![Frame Measurement](/Frame Measurement.jpg)
 - **Wiring Diagram**:
 - - ![Diagram](/Diagram.jpg)
 
