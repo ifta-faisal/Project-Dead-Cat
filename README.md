@@ -30,7 +30,7 @@ This guide is organized to help you easily navigate each step of building, confi
    - 3D printed joint and mount (PLA+)
    - Motor
    - Flight Controller Stack
-   - Foxer M10Q-180
+   - Foxer M10Q-180 GPS
    - Propeller
    - Glue
    - Zip tie
